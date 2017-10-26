@@ -1,5 +1,5 @@
 # server_FTP
-A simple FTP server, protocol compliant RFC959, written in C
+A simple FTP server, protocol compliant RFC959, written in C.
 
 # Compile
 > *make*
