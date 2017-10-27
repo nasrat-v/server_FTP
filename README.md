@@ -11,4 +11,5 @@ Launch the server:
 
     ./server PORT PATH_TO_STORE_DATA
 
+# Client
 To connect your client, you can use Netcat or Telnet client (both are supported).
